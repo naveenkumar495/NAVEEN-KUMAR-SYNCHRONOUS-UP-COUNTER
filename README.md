@@ -1,8 +1,8 @@
 # EXP-11 SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
 
-**NAME:NAVEENKUMAR M**
+**NAME:LOKESH.M**
 
-**REF NO:24900580**
+**REF NO:24009743**
 
 **AIM:**
 
@@ -30,7 +30,7 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 
 **PROGRAM**
 ```
-Developed by: NAVEENKUKMAR M RegisterNumber: 24900580
+Developed by: NAVEENKUKMAR M RegisterNumber: 24009743
 ```
 SISO Shift Register
 ```
